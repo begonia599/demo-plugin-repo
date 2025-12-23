@@ -1,0 +1,7 @@
+{
+  "name": "proof-write-text",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "private": true,
+  "main": "index.js"
+}
