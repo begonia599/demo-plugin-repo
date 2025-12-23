@@ -7,8 +7,5 @@
   "homepage": "https://github.com/begonia599/demo-plugin-repo",
   "repository": "https://github.com/begonia599/demo-plugin-repo.git",
   "main": "index.js",
-  "dependencies": {},
-  "requires": {
-    "sillytavern": ">=1.10.0"
-  }
+  "dependencies": []
 }
