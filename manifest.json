@@ -1,0 +1,14 @@
+{
+  "id": "proof_write_text",
+  "display_name": "Proof Write Text",
+  "description": "Writes a fixed proof text file on plugin initialization.",
+  "version": "1.0.0",
+  "author": "begonia599",
+  "homepage": "https://github.com/begonia599/demo-plugin-repo",
+  "repository": "https://github.com/begonia599/demo-plugin-repo.git",
+  "main": "index.js",
+  "dependencies": {},
+  "requires": {
+    "sillytavern": ">=1.10.0"
+  }
+}
